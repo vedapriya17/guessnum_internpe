@@ -20,3 +20,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 - Make sure you have a C++ compiler installed on your machine.
 
+  
+https://github.com/vedapriya17/guessnum_internpe/assets/140573640/c4b7ce22-672f-4e41-9682-6d4d564eb3b9
+
